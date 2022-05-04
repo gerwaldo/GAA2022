@@ -14,7 +14,7 @@ jobs:
         echo -e "\nUser [@${{github.actor}}](https://github.com/${{github.actor}}) liked the session and rated with a star" >> README.md 
     
     - name: Commit changes
-      uses: elstudio/actions-js-build/commit@v2
+      uses: elstudio/actions-js-build/commit@v4
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PUSH_BRANCH: 'main'
