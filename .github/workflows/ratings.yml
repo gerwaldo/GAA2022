@@ -8,7 +8,7 @@ jobs:
   addstars:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
     - name: add entry to readme
       run: |
         echo -e "\nUser [@${{github.actor}}](https://github.com/${{github.actor}}) liked the session and rated with a star" >> README.md 
