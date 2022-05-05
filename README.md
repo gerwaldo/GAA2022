@@ -8,3 +8,5 @@ This session will uncover the best hidden productivity features of GitHub includ
 https://github.com/gerwaldo/GAA2022
 
 We hope that you enjoy the session:
+
+User [@HopfArminFronius](https://github.com/HopfArminFronius) liked the session and rated with a star
