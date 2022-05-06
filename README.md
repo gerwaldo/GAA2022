@@ -10,3 +10,5 @@ https://github.com/gerwaldo/GAA2022
 We hope that you enjoy the session:
 
 User [@HopfArminFronius](https://github.com/HopfArminFronius) liked the session and rated with a star
+
+User [@jetzlstorfer](https://github.com/jetzlstorfer) liked the session and rated with a star
